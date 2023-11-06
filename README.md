@@ -34,7 +34,7 @@ Welcome to the Zfunds API documentation. This API allows advisors and users to i
   - role (string): The role of the user (always "user").
   - advisorId (number): The advisor's unique identifier.
 
-####3. Advisor Views a List of Clients
+#### 3. Advisor Views a List of Clients
 
 - URL: /advisor/clients
 - Method: GET
@@ -47,7 +47,7 @@ Welcome to the Zfunds API documentation. This API allows advisors and users to i
   - name (string): The name of the client.
   - mobile (string): The mobile number of the client.
 
-####4. User Signs Up
+#### 4. User Signs Up
 
 - URL: /user/signup
 - Method: POST

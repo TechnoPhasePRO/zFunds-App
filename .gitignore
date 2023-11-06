@@ -7,3 +7,15 @@ yarn-error.log
 .pnp.js
 .npm
 .env
+
+# PostgreSQL
+# Ignore database dump files
+*.backup
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
